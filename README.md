@@ -1,9 +1,5 @@
 ### Hi there! 👋
 
-Languages and Tools:
-https://www.postgresql.org/
-https://www.oracle.com/
-
 <!--
 **henriquecosta1/henriquecosta1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
